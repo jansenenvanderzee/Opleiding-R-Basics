@@ -1,0 +1,21 @@
+<html>
+ <head>
+  <title>Opleiding R Basics | jansen en van der zee</title>
+ </head>
+ <body>
+
+  <h2> Inleiding opleiding R</h2>
+  De html output van mijn vier R markdown files die corresponderen met mijn vier sessies.
+  <br>
+  <br>
+   <a href="https://github.com/jansenenvanderzee/Opleiding-R-Basics/dag-1.html"> Sessie 1</a>
+  <br>
+  <a href="https://github.com/jansenenvanderzee/Opleiding-R-Basics/dag-2.html"> Sessie 2</a>
+<br>
+  <a href="https://github.com/jansenenvanderzee/Opleiding-R-Basics/dag-3.html"> Sessie 3</a>
+<br>
+  <a href="https://github.com/jansenenvanderzee/Opleiding-R-Basics/dag-4"> Sessie 4</a>
+
+
+ </body>
+</html>
